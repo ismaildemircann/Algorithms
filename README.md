@@ -1,6 +1,5 @@
 # 1) Long Integer Multiplication with Karatsuba Algorithm
-In this project you are asked to implement the divide-and-conquer long integer multiplication algorithm
-that we discussed in class, whose running time is O(n1.58).
+In this project you are asked to implement the divide-and-conquer long integer multiplication algorithm, whose running time is O(n1.58).
 Your program will first prompt for N, the number of digits that each integer has. Then the program will
 prompt for the name of the file where the first integer is stored, then prompt for the name of the file
 where the second integer is stored. It will then multiply the integers using the divide-and-conquer long
