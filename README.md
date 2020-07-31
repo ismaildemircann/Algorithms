@@ -36,18 +36,18 @@ x * y = (10^(n/2) * a + b) * (10^(n/2) * c + d)
 
 # 2) Sorting Algorithms
 
-Bubble Sort
+* Bubble Sort
 
-Selection Sort
+* Selection Sort
 
-Insertion Sort
+* Insertion Sort
 
-Merge Sort
+* Merge Sort
 
-Quick Sort
+* Quick Sort
 
-Heap Sort
+* Heap Sort
 
-Radix Sort
+* Radix Sort
 
-Counting Sort
+* Counting Sort
