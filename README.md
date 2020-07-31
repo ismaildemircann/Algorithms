@@ -1,3 +1,4 @@
+This project was made by Eda Çam & İsmail Demircan.
 # 1) Long Integer Multiplication with Karatsuba Algorithm
 In this project you are asked to implement the divide-and-conquer long integer multiplication algorithm, whose running time is O(n1.58).
 Your program will first prompt for N, the number of digits that each integer has. Then the program will
@@ -31,3 +32,22 @@ y = 10^(n/2) * c + d or 6900 + 12
 x * y = (10^(n/2) * a + b) * (10^(n/2) * c + d)
 
 = 10^(n)*ac + 10^(n/2)(ad + bc) + bd
+
+
+# 2) Sorting Algorithms
+
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Radix Sort
+
+Counting Sort
