@@ -60,4 +60,4 @@ x * y = (10^(n/2) * a + b) * (10^(n/2) * c + d)
 
 ## 3) Authors
 * [Eda Çam](https://github.com/edacaam)
-* İsmail Demircan
+* [İsmail Demircan](https://github.com/ismaildemircann)
