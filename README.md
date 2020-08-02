@@ -1,5 +1,10 @@
+#Algorithms
 This project was made by Eda Çam & İsmail Demircan.
-# 1) Long Integer Multiplication with Karatsuba Algorithm
+## [1) Long Integer Multiplication with Karatsuba Algorithm](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#1-long-integer-multiplication-with-karatsuba-algorithm)
+## [2) Sorting Algorithms](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#2-sorting-algorithms)
+
+
+## 1) Long Integer Multiplication with Karatsuba Algorithm
 In this project you are asked to implement the divide-and-conquer long integer multiplication algorithm, whose running time is O(n1.58).
 Your program will first prompt for N, the number of digits that each integer has. Then the program will
 prompt for the name of the file where the first integer is stored, then prompt for the name of the file
@@ -34,7 +39,7 @@ x * y = (10^(n/2) * a + b) * (10^(n/2) * c + d)
 = 10^(n)*ac + 10^(n/2)(ad + bc) + bd
 
 
-# 2) Sorting Algorithms
+## 2) Sorting Algorithms
 
 * Bubble Sort
 
@@ -51,3 +56,7 @@ x * y = (10^(n/2) * a + b) * (10^(n/2) * c + d)
 * Radix Sort
 
 * Counting Sort
+
+## 3) Authors
+* Eda Çam
+* İsmail Demircan
