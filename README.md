@@ -1,5 +1,4 @@
 #Algorithms
-This project was made by Eda Çam & İsmail Demircan.
 ## [1) Long Integer Multiplication with Karatsuba Algorithm](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#1-long-integer-multiplication-with-karatsuba-algorithm-1)
 ## [2) Sorting Algorithms](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#2-sorting-algorithms-1)
 ## [3) Authors](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#3-authors-1)
