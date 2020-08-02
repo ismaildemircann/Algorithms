@@ -20,17 +20,19 @@ the most significant digit. That means that if A.txt contains “123456”, this
 
 
 x = 7854
+
 y = 6912
  
 [78][54]
 a = 78
-b = 54
+ b = 54
 
 [69][12]
 c = 69
-d = 12
+ d = 12
 
 x = 10^(n/2) * a + b or 7800 + 54
+
 y = 10^(n/2) * c + d or 6900 + 12
 
 x * y = (10^(n/2) * a + b) * (10^(n/2) * c + d)
