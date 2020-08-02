@@ -1,8 +1,8 @@
 #Algorithms
 This project was made by Eda Çam & İsmail Demircan.
-## [1) Long Integer Multiplication with Karatsuba Algorithm](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#1-long-integer-multiplication-with-karatsuba-algorithm)
-## [2) Sorting Algorithms](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#2-sorting-algorithms)
-
+## [1) Long Integer Multiplication with Karatsuba Algorithm](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#1-long-integer-multiplication-with-karatsuba-algorithm-1)
+## [2) Sorting Algorithms](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#2-sorting-algorithms-1)
+## [3) Authors](https://github.com/ismaildemircann/Algorithms/blob/master/README.md#3-authors)
 
 ## 1) Long Integer Multiplication with Karatsuba Algorithm
 In this project you are asked to implement the divide-and-conquer long integer multiplication algorithm, whose running time is O(n1.58).
