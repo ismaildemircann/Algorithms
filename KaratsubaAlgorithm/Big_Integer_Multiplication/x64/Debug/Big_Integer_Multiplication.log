@@ -1,8 +1,0 @@
-﻿  BigInteger.cpp
-C:\Users\CXXX\Desktop\Projeler\Big_Integer_Multiplication\Big_Integer_Multiplication\BigInteger.cpp(35,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\CXXX\Desktop\Projeler\Big_Integer_Multiplication\Big_Integer_Multiplication\BigInteger.cpp(58,66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\CXXX\Desktop\Projeler\Big_Integer_Multiplication\Big_Integer_Multiplication\BigInteger.cpp(68,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\CXXX\Desktop\Projeler\Big_Integer_Multiplication\Big_Integer_Multiplication\BigInteger.cpp(96,66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\CXXX\Desktop\Projeler\Big_Integer_Multiplication\Big_Integer_Multiplication\BigInteger.cpp(106,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\CXXX\Desktop\Projeler\Big_Integer_Multiplication\Big_Integer_Multiplication\BigInteger.cpp(136,66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Big_Integer_Multiplication.vcxproj -> C:\Users\CXXX\Desktop\Projeler\Big_Integer_Multiplication\x64\Debug\Big_Integer_Multiplication.exe
